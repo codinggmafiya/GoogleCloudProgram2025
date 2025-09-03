@@ -1,7 +1,7 @@
 ```
-curl -LO https://raw.githubusercontent.com/pspcps/Arcade/master/40609.sh
+curl -LO raw.githubusercontent.com/codinggmafiya/GoogleCloudProgram2025/refs/heads/main/Create%20a%20Machine%20Image%20for%20Instance%20Replication/MachineImage.sh
 
-sudo chmod +x 40609.sh
+sudo chmod +x MachineImage.sh
 
-./40609.sh
+./MachineImage.sh
 ```
