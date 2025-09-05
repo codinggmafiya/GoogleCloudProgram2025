@@ -1,0 +1,8 @@
+
+```
+curl -LO https://raw.githubusercontent.com/pspcps/Arcade/master/GSP1079.sh
+
+sudo chmod +x GSP1079.sh
+
+./GSP1079.sh
+```
